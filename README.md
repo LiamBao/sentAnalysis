@@ -4,7 +4,7 @@
 ### The weight factor of each vocabulary dict is derived by using ???unknow
 
 for windows
- ```
+ ``` 
  ..\pyinstaller.exe --onefile --console -i <the/path/to/your/.ico> main.py 
  ```
 
@@ -24,7 +24,7 @@ for windows
         inversedict  # 权值为-1 ```
 	- emotion dict
 	   - *emotional vocabulary*
-   - stopwords
+    - stopwords
 	   - 
-   - usedict
+    - usedict
 	   - 
